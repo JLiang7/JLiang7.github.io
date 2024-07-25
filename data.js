@@ -60,31 +60,8 @@ export const projects = {
                 "Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
             preview: "https://programmingdiaries.herokuapp.com/",
             techStack: ["Django", "SQLite", "Bootstrap", "JavaScript", "Heroku"],
-        },
-        {
-            projectName: "Find Your Bank",
-            image: "images/findyourbank.png",
-            summary:
-                "Developed a React application to render a list of banks fetched from API. Filtered the banks based on queries from localstorage, marked favorites banks.",
-            preview: "https://clever-fermi-0d5d76.netlify.app",
-            techStack: ["Reactjs", "Bootstrap", "JavaScript", "Netlify"],
-        },
-        {
-            projectName: "Web Portfolio",
-            image: "images/portfolio.png",
-            summary:
-                "Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-            preview: "https://github.com/vinaysomawat/Travographer-Portal",
-            techStack: ["HTML", "Bootstrap", "JavaScript"],
-        },
-        {
-            projectName: "Resume Builder",
-            image: "images/resume-builder.png",
-            summary:
-                "Browser based editor to build and download Resumes in a customizable templates.",
-            preview: "https://vinaysomawat.github.io/Resume-Builder",
-            techStack: ["HTML", "Bootstrap", "JavaScript"],
-        },
+        }
+        
     ],
     softwareProjects: [
         {
@@ -94,23 +71,7 @@ export const projects = {
                 "ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
             preview: "https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
             techStack: ["Dailogflow", "Firebase"],
-        },
-        {
-            projectName: "WhatsApp-Bot",
-            image: "images/whatsappbot.jpg",
-            summary:
-                "Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-            preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
-            techStack: ["Selenium", "Chrome Webdriver", "Python"],
-        },
-        {
-            projectName: "Bill Generator",
-            image: "images/billgenerator.png",
-            summary:
-                "GUI to transfer data to excel sheets and generate bills on the local shops.",
-            preview: "https://github.com/vinaysomawat/Bill-Generator",
-            techStack: ["Tkinter", "Openxlpy", "Python"],
-        },
+        }
     ],
     androidProjects: [
         {
@@ -120,15 +81,7 @@ export const projects = {
                 "The Application display details of Department courses, reference books, research, publication and faculty profile.",
             preview: "https://github.com/vinaysomawat/NITW-CSE",
             techStack: ["JAVA", "XML", "Android"],
-        },
-        {
-            projectName: "CareerHigh-App",
-            image: "images/carrerhigh.png",
-            summary:
-                "The Application display the webpages of website careerhigh.in in android devices.",
-            preview: "https://github.com/vinaysomawat/CareerHigh-Android",
-            techStack: ["JAVA", "XML", "Android"],
-        },
+        }
     ],
     freelanceProjects: [
         {
@@ -138,15 +91,7 @@ export const projects = {
                 "Developed a company website to showcase the purpose, services and products provided by the company to audience.",
             preview: "https://www.snylloair.com/",
             techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
-        },
-        {
-            projectName: "Delivery+",
-            image: "images/AM-Logo-.png",
-            summary: "Android Application to display website in android devices.",
-            preview:
-                "https://play.google.com/store/apps/details?id=com.americanmarket.americanmarketandroid",
-            techStack: ["Android", "JAVA", "Play Store"],
-        },
+        }
     ],
 };
 
@@ -242,16 +187,12 @@ export const footer = [
         label: "Dev Profiles",
         data: [
             {
-                text: "Stackoverflow",
-                link: "https://stackoverflow.com/users/8461233/vinay-somawat",
-            },
-            {
                 text: "GitHub",
-                link: "https://github.com/vinaysomawat",
+                link: "https://github.com/Jliang7",
             },
             {
                 text: "LeetCode",
-                link: "https://leetcode.com/somawatvinay/",
+                link: "placeholder",
             },
         ],
     },
@@ -268,7 +209,7 @@ export const footer = [
             },
             {
                 text: "Clone this page",
-                link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+                link: "https://github.com/JLiang7/JLiang7.github.io",
             },
         ],
     },
@@ -277,22 +218,21 @@ export const footer = [
         data: [
             {
                 text: "Linkedin",
-                link: "https://www.linkedin.com/in/vinaysomawat/",
+                link: "https://www.linkedin.com/in/Jliang777",
             },
             {
                 text: "Twitter",
-                link: "https://twitter.com/thesigmakid",
+                link: "placeholder",
             },
             {
                 text: "Buy me a coffee",
-                link: "https://www.buymeacoffee.com/r194dME8y",
+                link: "placeholder",
             },
         ],
     },
     {
         label: "copyright-text",
         data: [
-            "Made with &hearts; by Vinay Somawat.",
             "&copy; No Copyrights. Feel free to use this template.",
         ],
     },
