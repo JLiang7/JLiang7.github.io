@@ -1,5 +1,5 @@
 export const bio = [
-    "Hello there, This is Vinay Somawat.",
+    "Hello there, This is Justin Liang.",
     `Experienced Frontend Software Engineer with a strong track record of successfully upgrading applications, optimizing performance, and delivering innovative solutions.`,
     `Eager to apply my technical expertise and in-depth
     product understanding to drive impactful contributions and exceed expectations in challenging projects.`,
