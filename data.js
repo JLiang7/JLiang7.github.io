@@ -46,7 +46,7 @@ export const skills = [
     },
     {
         title: "IDE",
-        skillName: "VS Code, Jupyter NB",
+        skillName: "VS Code, Jupyter",
         color: "6",
         percentage: "60",
     },
