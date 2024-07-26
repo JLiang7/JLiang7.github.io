@@ -1,8 +1,8 @@
 export const bio = [
-    "Hello there, This is Justin Liang.",
-    `Experienced Frontend Software Engineer with a strong track record of successfully upgrading applications, optimizing performance, and delivering innovative solutions.`,
-    `Eager to apply my technical expertise and in-depth
-    product understanding to drive impactful contributions and exceed expectations in challenging projects.`,
+    "Hello, This is Justin Liang.",
+    `With a strong foundation in statistical analysis, data visualization and Python. 
+    I've successfully led projects for a leading financial service holding company that drove improved customer satisfaction, significant business improvements and enhanced decision-making processes.`,
+    `Always on the drive to overcome substantial challenges`,
     "Thanks for taking the time to learn a little about me!",
 ];
 
