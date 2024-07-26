@@ -32,16 +32,16 @@ export const skills = [
         percentage: "95",
     },
     {
-        title: "IDE",
-        skillName: "VS Code",
-        color: "6",
-        percentage: "40",
-    },
-    {
         title: "Version Control",
         skillName: "GitHub",
         color: "7",
         percentage: "70",
+    },
+    {
+        title: "IDE",
+        skillName: "VS Code",
+        color: "6",
+        percentage: "40",
     },
 ];
 
