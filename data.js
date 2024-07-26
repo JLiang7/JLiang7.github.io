@@ -46,9 +46,9 @@ export const skills = [
     },
     {
         title: "IDE",
-        skillName: "VS Code",
+        skillName: "VS Code, Jupyter NB",
         color: "6",
-        percentage: "40",
+        percentage: "60",
     },
 ];
 
@@ -56,27 +56,27 @@ export const projects = {
     DataProjects: [
         {
             projectName: "Stock Market Prediction Modeling",
-            image: "images/programmingdiaries.png",
+            image: "images/stock.png",
             summary:
                 "Two-Part Personal Python Project on predicting the stock market with modeling",
             preview: "https://github.com/JLiang7/Stock_Market_Modeling",
-            techStack: ["Django", "SQLite", "Bootstrap", "JavaScript", "Heroku"],
+            techStack: ["Python", "Jupyter", "Pandas Datareader", "Scikit-learn", "pip-install libraries"],
         },
         {
             projectName: "Iris Flower Prediction App Lab",
-            image: "",
+            image: "images/iris.png",
             summary:
                 "A python web application that displays Iris flowers predictions.",
             preview: "https://share.streamlit.io/jliang7/iris_lab/iris-ml-app.py",
-            techStack: ["Django", "SQLite", "Bootstrap", "JavaScript", "Heroku"],
+            techStack: ["Python", "Jupyter", "Scikit-learn", "pip-install libraries", "streamlit"],
         },
         {
             projectName: "Social_Ad Lab",
-            image: "",
+            image: "images/social.png",
             summary:
                 "Hands-on python lab to understand data and draw insights for real world problems.",
             preview: "https://github.com/JLiang7/Social_Ad_Lab",
-            techStack: ["Django", "SQLite", "Bootstrap", "JavaScript", "Heroku"],
+            techStack: ["Python", "Jupyter", "Scikit-learn", "pip-install libraries"],
         },  
     ]
 };
@@ -113,7 +113,7 @@ export const education = [
         tags: [
             "Java", "C++","NLP", "Machine Learning", "Operating Systems","Data Structures & Algorithms"
         ],
-        icon: "graduation-cap",
+        icon: "book",
     },
 ];
 
