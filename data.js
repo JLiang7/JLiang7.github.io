@@ -22,7 +22,7 @@ export const skills = [
     {
         title: "Data Visualization",
         skillName: "Tableau, PowerBI",
-        color: "3",
+        color: "2",
         percentage: "50",
     },
     ,
@@ -41,7 +41,7 @@ export const skills = [
     {
         title: "Script Languages",
         skillName: "VBA",
-        color: "6",
+        color: "4",
         percentage: "95",
     },
     {
