@@ -133,11 +133,7 @@ export const footer = [
             {
                 text: "GitHub",
                 link: "https://github.com/Jliang7",
-            },
-            {
-                text: "LeetCode",
-                link: "placeholder",
-            },
+            }
         ],
     },
     {
@@ -163,15 +159,7 @@ export const footer = [
             {
                 text: "Linkedin",
                 link: "https://www.linkedin.com/in/Jliang777",
-            },
-            {
-                text: "Twitter",
-                link: "placeholder",
-            },
-            {
-                text: "Buy me a coffee",
-                link: "placeholder",
-            },
+            }
         ],
     },
     {
