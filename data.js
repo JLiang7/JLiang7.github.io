@@ -20,12 +20,6 @@ export const skills = [
         percentage: "30",
     },
     {
-        title: "Design",
-        skillName: "HTML, Bootstrap, Tailwind",
-        color: "4",
-        percentage: "70",
-    },
-    {
         title: "Data Visualization",
         skillName: "Tableau, PowerBI",
         color: "3",
