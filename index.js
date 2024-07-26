@@ -9,7 +9,7 @@ import {
 
 import { URLs } from './user-data/urls.js';
   
-  const { webProjects, softwareProjects, androidProjects, freelanceProjects } =
+  const { DataProjects, softwareProjects, androidProjects, freelanceProjects } =
     projects;
   const { medium, gitConnected } = URLs;
   
@@ -449,7 +449,7 @@ import { URLs } from './user-data/urls.js';
   fetchBlogsFromMedium(medium);
   fetchGitConnectedData(gitConnected);
   
-  populateProjects(webProjects, "web-projects");
+  populateProjects(DataProjects, "Data-projects");
   populateProjects(softwareProjects, "software-projects");
   populateProjects(androidProjects, "android-projects");
   populateProjects(freelanceProjects, "freelance-projects");
