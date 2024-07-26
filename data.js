@@ -64,7 +64,7 @@ export const projects = {
         },
         {
             projectName: "Iris Flower Prediction App Lab",
-            image: "images/iris.png",
+            image: "images/Iris.png",
             summary:
                 "A python web application that displays Iris flowers predictions.",
             preview: "https://share.streamlit.io/jliang7/iris_lab/iris-ml-app.py",
