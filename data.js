@@ -53,47 +53,32 @@ export const skills = [
 ];
 
 export const projects = {
-    webProjects: [
+    DataProjects: [
         {
-            projectName: "Programming Diaries",
+            projectName: "Stock Market Prediction Modeling",
             image: "images/programmingdiaries.png",
             summary:
-                "Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
-            preview: "https://programmingdiaries.herokuapp.com/",
+                "Two-Part Personal Python Project on predicting the stock market with modeling",
+            preview: "https://github.com/JLiang7/Stock_Market_Modeling",
             techStack: ["Django", "SQLite", "Bootstrap", "JavaScript", "Heroku"],
-        }
-        
-    ],
-    softwareProjects: [
+        },
         {
-            projectName: "Pizza Ordering ChatBot",
-            image: "images/pizzaorderchatbot.png",
+            projectName: "Iris Flower Prediction App Lab",
+            image: "",
             summary:
-                "ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
-            preview: "https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
-            techStack: ["Dailogflow", "Firebase"],
-        }
-    ],
-    androidProjects: [
+                "A python web application that displays Iris flowers predictions.",
+            preview: "https://share.streamlit.io/jliang7/iris_lab/iris-ml-app.py",
+            techStack: ["Django", "SQLite", "Bootstrap", "JavaScript", "Heroku"],
+        },
         {
-            projectName: "NITW-CSE",
-            image: "images/nitwcse.jpg",
+            projectName: "Social_Ad Lab",
+            image: "",
             summary:
-                "The Application display details of Department courses, reference books, research, publication and faculty profile.",
-            preview: "https://github.com/vinaysomawat/NITW-CSE",
-            techStack: ["JAVA", "XML", "Android"],
-        }
-    ],
-    freelanceProjects: [
-        {
-            projectName: "SnylloAir.com",
-            image: "images/snylloair.png",
-            summary:
-                "Developed a company website to showcase the purpose, services and products provided by the company to audience.",
-            preview: "https://www.snylloair.com/",
-            techStack: ["Bootstrap", "JavaScript", "AWS-S3"],
-        }
-    ],
+                "Hands-on python lab to understand data and draw insights for real world problems.",
+            preview: "https://github.com/JLiang7/Social_Ad_Lab",
+            techStack: ["Django", "SQLite", "Bootstrap", "JavaScript", "Heroku"],
+        },  
+    ]
 };
 
 export const experience = [
