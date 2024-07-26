@@ -111,20 +111,25 @@ export const experience = [
 
 export const education = [
     {
-        title: "B.Tech. in Computer Science and Engineering",
-        duration: "2016 - 2020",
-        subtitle: "National Institute of Technology, Warangal",
+        title: "B.A Actuarial Science",
+        duration: "2016 - 2018",
+        subtitle: "CUNY Baruch College",
         details: [],
         tags: [
-            "Data Structures & Algorithms",
-            "Operating Systems",
-            "Database Management System",
-            "Computer Networks",
-            "Compiler Designing",
-            "Cloud Computing",
+            "Math", "Accounting", "Finance", "FM Exam of Society of Actuary"
         ],
         icon: "graduation-cap",
-    }
+    },
+    {
+        title: "B.S Computer Science",
+        duration: "2012 - 2016",
+        subtitle: "SUNY Buffalo University",
+        details: [],
+        tags: [
+            "Java", "C++","NLP", "Machine Learning", "Operating Systems","Data Structures & Algorithms"
+        ],
+        icon: "graduation-cap",
+    },
 ];
 
 export const footer = [
