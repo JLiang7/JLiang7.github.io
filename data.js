@@ -25,6 +25,13 @@ export const skills = [
         color: "3",
         percentage: "50",
     },
+    ,
+    {
+        title: "Version Control",
+        skillName: "GitHub",
+        color: "7",
+        percentage: "70",
+    },
     {
         title: "Analytics",
         skillName: "Excel",
@@ -32,10 +39,10 @@ export const skills = [
         percentage: "95",
     },
     {
-        title: "Version Control",
-        skillName: "GitHub",
-        color: "7",
-        percentage: "70",
+        title: "Script Languages",
+        skillName: "VBA",
+        color: "6",
+        percentage: "95",
     },
     {
         title: "IDE",
@@ -91,14 +98,14 @@ export const projects = {
 
 export const experience = [
     {
-        title: "Shiprocket (Bigfoot Solution Private Limited)",
-        duration: "September 2022 - Present",
-        subtitle: "Software Engineer",
+        title: "EQH",
+        duration: "Jan 2019 - Present",
+        subtitle: "Data Analyst",
         details: [
-            "Working in support and escalation team."
+            "Working in Business Intelligence in the IR Team"
         ],
-        tags: ["JavaScript", "Angular", "Bootstrap", "Nodejs", "Jenkins"],
-        icon: "truck ",
+        tags: ["Python", "Excel", "VBA", "PowerBI", "Tableau", "SQL"],
+        icon: "group",
     }
 ];
 
