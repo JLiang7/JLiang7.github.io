@@ -84,7 +84,7 @@ export const projects = {
 export const experience = [
     {
         title: "EQH",
-        duration: "Jan 2019 - Present",
+        duration: "Jan 2019 - Aug 2025",
         subtitle: "Data Analyst",
         details: [
             "Working in Business Intelligence in the IR Team"
